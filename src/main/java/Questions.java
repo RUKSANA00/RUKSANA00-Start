@@ -30,5 +30,4 @@ public class Questions {
          */
         return "String";
     }
-
 }
